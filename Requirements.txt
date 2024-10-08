@@ -1,0 +1,9 @@
+REQUIREMENT
+
+1- Primary KPI: Total casualties and total accident values for current year and YoY growth.
+2- Primary KPI's: Total casualties by accident severity for current year and YoY growth.
+3- Secondary KPI's: Total casualties with respect to vehicle type for current year.
+4- Monthly trend showing comparison of casualties for current year and previous year.
+5- Casualties by road type for current year.
+6- Current year casualties by area/location and by day/night.
+7- Total casualties and total accidents by location  
